@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "cool-bay-282923"
+  },
+  "targets": {
+    "cool-bay-282923": {
+      "hosting": {
+        "website": [
+          "mjengoniarts"
+        ]
+      }
+    }
+  }
+}
